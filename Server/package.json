@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "atob": "^2.1.2",
+    "config": "^3.3.9",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  },
+  "name": "wpt_230344220059",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

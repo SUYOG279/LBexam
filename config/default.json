@@ -1,0 +1,7 @@
+{
+    "PORT": 8909,
+    "host"     : "localhost",
+    "user"     : "root",
+    "password" : "manager",
+    "database" : "wpt"
+}
